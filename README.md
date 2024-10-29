@@ -2,6 +2,9 @@
 
 🖥️ A Windows Forms application that demonstrates user login and registration functionality using SQL Server. This project follows the MVVM design pattern and implements secure password hashing.
 
+## Preview
+![Demo](./WFLoginRegister_Demo.gif)
+
 ## Features
 
 - User registration with hashed passwords
