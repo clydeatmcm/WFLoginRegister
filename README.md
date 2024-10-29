@@ -14,7 +14,6 @@
 - C#
 - Windows Forms
 - SQL Server
-- Entity Framework (optional)
 - [PBKDF2](https://cryptobook.nakov.com/mac-and-key-derivation/pbkdf2) for password hashing
 
 ## Getting Started
